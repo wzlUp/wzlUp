@@ -22,4 +22,6 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <br/>
 <!-- GitHub活动统计 -->
-https://github-readme-activity-graph.vercel.app/graph?username=wzlUp&theme=github
+<div align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=wzlUp&theme=xcode" />
+</div>
