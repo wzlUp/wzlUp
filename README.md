@@ -23,5 +23,5 @@
 <br/>
 <!-- GitHub活动统计 -->
 <div align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=wzlUp&theme=xcode" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzlUp&show_icons=true&theme=radical)
 </div>
