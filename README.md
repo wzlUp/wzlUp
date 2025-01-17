@@ -22,6 +22,4 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <br/>
 <!-- GitHub活动统计 -->
-<div align="left">
-  [![wzlUp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wzlUp)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+[![wzlUp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wzlUp)](https://github.com/ashutosh00710/github-readme-activity-graph)
