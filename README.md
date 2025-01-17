@@ -22,4 +22,4 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <br/>
 <!-- GitHub活动统计 -->
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wzlUp&theme=github)
+https://github-readme-activity-graph.vercel.app/graph?username=wzlUp&theme=github
